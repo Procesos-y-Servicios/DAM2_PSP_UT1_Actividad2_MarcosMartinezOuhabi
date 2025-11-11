@@ -1,4 +1,4 @@
-package psp.practica1;
+package psp.practica;
 
 import java.io.BufferedWriter;
 import java.io.File;

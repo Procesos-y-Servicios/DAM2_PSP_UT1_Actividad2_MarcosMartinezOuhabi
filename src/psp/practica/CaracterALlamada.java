@@ -1,7 +1,6 @@
-package psp.practica1;
+package psp.practica;
 
 import java.io.BufferedReader;
-import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileReader;
 import java.util.Scanner;
