@@ -12,7 +12,7 @@ public class CaracterALlamada {
         ProcessBuilder pb;
         Process process;
 
-        if (!linea.isEmpty()){
+        if (!linea.isEmpty()) {
 
             String classname = "psp.practica1.NumRandom";
             String currentPath = System.getProperty("user.dir");
